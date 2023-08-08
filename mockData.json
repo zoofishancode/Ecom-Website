@@ -1,0 +1,162 @@
+
+[
+    {
+        "id":"01",
+        "title":"Cotton Printed Suit-set",
+        "price":"Rs. 1000",
+        "url":"images/M1.png",
+        "description": "Blue printed Kurta paired with Trousers and a dupatta. The Kurta design showcases floral prints with a straight shape, V-neck, and sleeveless style detailed with Gotta patti work. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+    
+    {
+        "id":"02",
+        "title":"Printed Suit-set",
+        "price":"Rs. 2000",
+        "url":"images/M2.png",
+        "description": "Our 3-piece pink printed cotton suit set features a floral print Anarkali kurta with a keyhole neckline and a statement yoke, straight palazzo pants with a partially elasticated waistband and roomy pockets, and a complementing dupatta. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"03",
+        "title":"Saree",
+        "price":"Rs. 3000",
+        "url":"images/M5.png",
+        "description": "Pink and gold-toned banarasi saree. Ethnic Motifs woven design saree with woven design border Has zari detail. The saree comes with an unstitched blouse piece. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"04",
+        "title":"Lehenga",
+        "price":"Rs. 5000",
+        "url":"images/M6.png",
+        "description": "Mustard and green printed lehenga choli with dupatta, has foil print technique and gotta patti. Comes with unstitched blouse, has a sweetheart neck, short sleeves and semi-stitched lehenga. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"05",
+        "title":"Blue Anarkali Suit-set",
+        "price":"Rs. 1500",
+        "url":"images/M19.png",
+        "description": "The Navy-blue kurta is designed with solid prints, has an Anarkali shape, regular style, and a mandarin collar with long regular sleeves. It is made from a cotton blend knitted and woven fabric, and it is floor length with a flared hem. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"06",
+        "title":"Black Party dress",
+        "price":"Rs. 3000",
+        "url":"images/M20.png",
+        "description": "The kurta design showcases a floral embroidery with an Anarkali shape, V-neck, and three-quarter shoulder straps. The palazzos design includes solid palazzos with a partially elasticated waistband and a slip-on closure. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"07",
+        "title":"Anarkali Suit-set",
+        "price":"Rs. 2000",
+        "url":"images/M3.png",
+        "description": "Our 3-piece sky-blue printed cotton suit set features a floral print Anarkali kurta with a keyhole neckline and a statement yoke, straight palazzo pants with a partially elasticated waistband and roomy pockets, and a complementing dupatta. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"08",
+        "title":"Floral Anarkali",
+        "price":"Rs. 2500",
+        "url":"images/M4.png",
+        "description": "A blue printed kurta with trousers and a dupatta. The kurta design showcases a floral print with an Anarkali shape, an empire style, and a square neckline. It is sleeveless with a floor-length, flared hem, and made from organza machine weave fabric. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"09",
+        "title":"Cotton Printed Suit-set",
+        "price":"Rs. 1500",
+        "url":"images/M7.png",
+        "description": "Pink Bandhani printed, V-neck with regular three-quarter. A-line shape with angrakha style having calf-length with flared hem, Machine weave regular cotton. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style"
+    },
+
+    {
+        "id":"10",
+        "title":"Pakistani Suit-set",
+        "price":"Rs. 2500",
+        "url":"images/M8.png",
+        "description": "A Yoke design Kurta with Palazzos and a dupatta. The Kurta has ethnic motifs on the yoke with a straight shape and a regular style. It has a round neck, long regular sleeves, and Zari detailing. The Kurta is calf length with a straight hem and is made from velvet machine-weave fabric. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"11",
+        "title":"Sharara Set",
+        "price":"Rs. 3000",
+        "url":"images/M9.png",
+        "description": "The kurta design includes floral embroidery, a straight shape, a regular style, round neck, sleeveless, and mirror work detailing. The kurta is made from a silk blend machine weave fabric and has an above-knee length with a straight hem. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"12",
+        "title":"Embroidered Sharara Suit",
+        "price":"Rs. 4500",
+        "url":"images/M10.png",
+        "description": "An off-white embroideredKurti set, complete with Sharara and Dupatta. The Kurti boasts an embellished A-line design with a scoop neck, long regular sleeves, and mirror work detail. Made from Georgette machine weave fabric, it is above knee length with a flared hem. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"13",
+        "title":"Floral Sharara",
+        "price":"Rs. 2000",
+        "url":"images/M11.png",
+        "description": "A black floral Kurti set, complete with Sharara and Dupatta. The Kurti boasts an embellished A-line design with a scoop neck, long regular sleeves, and mirror work detail. Made from Organza fabric, it is above knee length with a flared hem. The complimentary flowers adds to the elegance. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"14",
+        "title":"Floral Printed Suit-set",
+        "price":"Rs. 1500",
+        "url":"images/M12.png",
+        "description": "A yellow floral printed Anarkali kurta with palazzos and dupatta. The kurta has long regular sleeves, a V-neck, and a flared hem, made from raw silk machine weave fabric. The palazzos have a printed design with a partially elasticated waistband and zip closure. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"15",
+        "title":"Party Gown",
+        "price":"Rs. 3000",
+        "url":"images/M17.png",
+        "description": "A green and mustard yellow kurta and skirt set with a matching dupatta. The kurta has a yoke design, a Pathani shape, and three-quarter regular sleeves. It is adorned with Gotta patti detailing and has a floor-length with a scalloped hem. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"16",
+        "title":"Party Dress",
+        "price":"Rs. 2500",
+        "url":"images/M14.png",
+        "description": "A blue printed Kurta paired with trousers and a dupatta. The Kurta design showcases floral embroidery with an A-line shape and a regular style. It has a band collar, long regular sleeves, and a floor length with a straight hem. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"17",
+        "title":"Elegant Printed Suit-set",
+        "price":"Rs. 2000",
+        "url":"images/M15.png",
+        "description": "Elegant pink, white, and green embroidered kurta with floral designs, paired with solid pink trousers featuring a partially elasticated waistband for comfort and a polished look. Perfect for various occasions. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"18",
+        "title":"Pista Colored Plazzo-set",
+        "price":"Rs. 2500",
+        "url":"images/M16.png",
+        "description": "A pista colored embroidered kurta and palazzos set accompanied by a dupatta. The kurta design showcases ethnic motifs with embroidery, a straight shape, regular style, and a round neck with three-quarter regular sleeves. The palazzos are also embroidered and comes with a comfortable fit. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"19",
+        "title":"Printed Suit",
+        "price":"Rs. 1500",
+        "url":"images/M13.png",
+        "description": "A beige printed Kurta with Palazzos and a matching dupatta. The Kurta features a floral print in an Anarkali shape with pleated styling. It has a calf length with a flared hem and is made of cotton blend knitted and woven fabric. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    },
+
+    {
+        "id":"20",
+        "title":"Green Suit-set",
+        "price":"Rs. 1500",
+        "url":"images/M18.png",
+        "description": "The kurta design features a solid color with an Anarkali shape, an empire style, and a round neck. It has three-quarter regular sleeves with Gotta Patti detailing. The kurta is calf-length with a flared hem and made from cotton blend machine-woven fabric. This ethnic wear makes a statement at every event, leaving a lasting impression with your captivating and elegant look. The fabric is so that it gives the magic of traditional fashion that fits flawlessly and empowers you to embrace your true beauty. Indulge in the pleasure of dressing up with our exclusive collection of women's ethnic wear, where every piece is crafted with love and attention to detail. Discover the joy of wearing clothing that not only complements your body but also reflects your unique sense of style."
+    }
+]

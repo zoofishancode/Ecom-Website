@@ -3,64 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="styles/login.css" rel="stylesheet">
-    <link href="styles/styles.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-    <title>Login Page</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap" rel="stylesheet">
+    <title>Login - Z&M | The Online Shopping Store</title>
+    <link href="styles/styles.css" rel="stylesheet">
+    <link rel="script" href="index.js">
 </head>
 <body>
-    <header>
-        <img class="logo" src="images/z&m3.jpg" alt="logo">
-        <nav>
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="#">Shop</a></li>
-                <li><a href="login.html">Login</a></li>
-            </ul>
-        </nav>
-        <a class="cart" href="cart.html"><button>Cart</button></a>
-    </header>
-    <main>
-        <h1>Please Login</h1>
-        <form>
-            <div class="form-floating">
-                <label for="floatingInput">Email Address:</label>
-                <input type="email" class="form-control" id="floatingInput" placeholder="Email Address" >
-                
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <a href="index.html"><img src="images/logo.jpg" alt="logo" width="100px"></a>
             </div>
-        
-            <div class="form-floating">
-                <label for="floatingPassword">Password:</label>
-                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-                
-            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <!-- <li><a href="#">Contact</a></li> -->
+                    <li><a href="login.html">Login</a></li>
+                </ul>
+            </nav>
+            <a href="cart.html"><img src="images/shopping-cart.png" alt="cart-icon" width="28px"></a>
+        </div>
+    </div>
 
-            <div  class="pass">Forgot Password?</div>
-            <input class="login" type="submit" value="Login">
-            <div >
-                Not a member? 
+    <div class="login-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-2-1">
+                    <img src="images/alia - Copy.jpg">
+                </div>
+                
+                <div class="col-2-2">
+                    <div class="form-container">
+                        <div class="form-btn">
+                            <span onclick="login()">Login</span>
+                            <span onclick="register()">Register</span>
+                            <hr id="indicator">
+                        </div>
+
+                        <form id="loginForm">
+                            <input type="text" placeholder="Username">
+                            <input type="text" placeholder="Password">
+                            <button type="submit" class="btn">Login</button>
+                            <a href="">Forgot password</a>
+                        </form>
+                        <form id="regForm">
+                            <input type="text" placeholder="Username">
+                            <input type="email" placeholder="Email">
+                            <input type="text" placeholder="Password">
+                            <button type="submit" class="btn">Register</button>
+                        </form>
+                    </div>
+                </div>
             </div>
-            <div >
-                <a class="signup-link" href="#">Sign-up</a>
-            </div>
-        </form>
-    </main>
+        </div>
+    </div>
+        
+
+    <!-- Toggle for Login-Register form -->
+    <script>
+        var loginForm = document.getElementById("loginForm");
+        var regForm = document.getElementById("regForm");
+        var indicator = document.getElementById("indicator");
+
+        function register() {
+            regForm.style.transform = "translateX(0px)";
+            loginForm.style.transform = "translateX(0px)";
+            indicator.style.transform = "translateX(100px)";
+        }
+
+        function login() {
+            regForm.style.transform = "translateX(300px)";
+            loginForm.style.transform = "translateX(300px)";
+            indicator.style.transform = "translateX(0px)";
+        }
+
+    </script>
+
 </body>
 </html>
 
-<!-- <h1>Please Sign-in</h1>
-        <form>
-            <div class="form-floating">
-                <label for="floatingInput"></label>
-                <input type="email" class="form-control" id="floatingInput" placeholder="Email Address" >
-            </div>
-        
-            <div class="form-floating">
-                <label for="floatingPassword"></label>
-                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-            </div>
-            
-            <button class="submit-button" type="submit">Sign in</button>
-        </form> -->
+
