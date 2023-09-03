@@ -1,2 +1,2 @@
 # Ecom-Website
-Z&M | Online shopping website for Internship project.
+Front-end of an e-commerce website.
